@@ -126,19 +126,7 @@ ______________________________________________________________________________
 9. Rozmowa ze wszystkimi członkami dotycząca optymalizacji pracy (Jak nie marnować czas na rozmowy podczas spotkania i co robić jak przestała działać aplikacja) [1 h]
 Było przeprowadzono kilka spotkań około 10-20 min każde, suma tych wszystkich spotkań dotyczących analizy pracy zespołowej i optymalizacji czasu pracy ~ 1h
 
-## Uruchomienie projektu:
-1. Pobieramy Projekt
-2. Musimy mieć zainstalowane: Intellij IDEA, MySQL Workbench 8.0 CE,  Node.js
-3. Włączamy MySQL Workbench 8.0 CE i tworzymy połączenie gdzie wpisujemy następne komendy, żeby stworzyć BD: 
-####
- 3.1. create schema test;
-####
- 3.2. use test;
-####
-4. Odpalamy program w Intellij IDEA i kompilujemy projekt - można skorzystać z pliku JAR;
-5. Odpalamy terminal i przechodzimy do pliku w projekcie /frontend/buildings i wpisujemy następne komendy:
-####
- 5.1. npm start
+
 
 
 
