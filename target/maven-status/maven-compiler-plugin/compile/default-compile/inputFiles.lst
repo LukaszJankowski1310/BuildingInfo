@@ -1,0 +1,13 @@
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\logic\Building.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\rest\BuildingService.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\CorsConfig.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\rest\BuildingRepository.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\rest\FloorRepository.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\BuildingApplication.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\logic\BaseLocation.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\logic\Location.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\rest\BuildingController.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\logic\Room.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\logic\Floor.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\rest\RoomRepository.java
+D:\GitHub\BuildingInfo\src\main\java\pl\put\poznan\rest\LocationRepository.java
